@@ -1,0 +1,20 @@
+{
+  "name": "frogzz-official",
+  "version": "1.0.0",
+  "description": "Baileys pairing connector by FrogzzOfficial",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "FrogzzOfficial",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "pino": "^9.4.0",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
